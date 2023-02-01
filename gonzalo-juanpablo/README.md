@@ -11,4 +11,10 @@
 
 En este trabajo utilizamos comandos de github en dos repositorios distintos, resolviendo conflictos de edición.\
 También trabajamos con formato de markdown para hacer archivos readme con información sobre el proyecto.\
+Para subir nuestros cambios a nuestro repositorio de git, usamos los siguientes comandos:
+
+```git add .
+git commit -m "Mensaje del commit"
+git push 'url del repositorio' 'rama del repositorio'```
+
 ![alt](github.jpeg)
