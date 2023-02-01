@@ -10,4 +10,5 @@
     - Ing. de Sistemas
 
 En este trabajo utilizamos comandos de github en dos repositorios distintos, resolviendo conflictos de edición.\
-También trabajamos con formato de markdown para hacer archivos readme con información sobre el proyecto.
+También trabajamos con formato de markdown para hacer archivos readme con información sobre el proyecto.\
+![alt](github.jpeg)
