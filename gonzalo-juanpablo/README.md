@@ -15,6 +15,7 @@ Para subir nuestros cambios a nuestro repositorio de git, usamos los siguientes 
 
 ```git add .
 git commit -m "Mensaje del commit"
-git push 'url del repositorio' 'rama del repositorio'```
+git push 'url del repositorio' 'rama del repositorio'
+```
 
 ![alt](github.jpeg)
