@@ -3,8 +3,8 @@
 
 **Estudiantes**\
 1. *Juan Pablo Poveda*
-    -8vo semestre
-    -Ing. de Sistemas
+    - 8vo semestre
+    - Ing. de Sistemas
 2. *Gonzalo Falco*
-    -8vo semestre
-    -Ing. de Sistemas
+    - 8vo semestre
+    - Ing. de Sistemas
