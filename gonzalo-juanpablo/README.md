@@ -1,10 +1,13 @@
 # Archivo README
 ## [Laboratorio de Ciclos de Vida de Desarrollo del Software](https://bit.ly/m/cvds)
 
-**Estudiantes**\
+**Estudiantes**
 1. *Juan Pablo Poveda*
     - 8vo semestre
     - Ing. de Sistemas
 2. *Gonzalo Falco*
     - 8vo semestre
     - Ing. de Sistemas
+
+En este trabajo utilizamos comandos de github en dos repositorios distintos, resolviendo conflictos de edición.\
+También trabajamos con formato de markdown para hacer archivos readme con información sobre el proyecto.
